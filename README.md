@@ -20,7 +20,7 @@ Make sure you have the following installed on your machine:
 2. Navigate to the project directory:
 
    ```bash
-   cd weather-app
+   cd weatherApp-Reactjs
    ```
 
 3. Install dependencies:
@@ -37,9 +37,7 @@ Make sure you have the following installed on your machine:
 
 5. Open your browser and visit `http://localhost:3000` to see the application in action.
 
-## Customization
 
-You can customize the weather API endpoint by modifying the `handleSubmit` function in `WeatherApp.js`.
 
 ## Technologies Used
 
